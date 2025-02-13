@@ -65,7 +65,8 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-
+//linha de comando alterada, eu sei que bugou mas n importa
+//command line altered, I know this is not a valid programming line but idc
 
 
 
